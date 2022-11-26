@@ -1,0 +1,3635 @@
+{
+  "albums": {
+    "totalCount": 402,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+          "name": "Goodbye & Good Riddance",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:1typPCwqyXMfFpvDZAyKew",
+          "name": "Fighting Demons (Deluxe)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048517459992b444de38842b9bee7",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL",
+          "name": "Legends Never Die",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2020
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:1btu0SV2DOI5HoFsvUd78F",
+          "name": "Death Race For Love (Bonus Track Version)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048518b27d35aa2c6dcf99895d664",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2019
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:4I00tpvL54vnWy49vH5fRK",
+          "name": "In My Head",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02fc8d508165184ba404ca8495",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851fc8d508165184ba404ca8495",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273fc8d508165184ba404ca8495",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:6P9PZjWXoCRF5b66BafPKY",
+          "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i",
+                "profile": {
+                  "name": "Future"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02644c510e8d4c02ae69028297",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851644c510e8d4c02ae69028297",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:5giypGtgtgaS406WbeMZGn",
+          "name": "Good Guy",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:6TgqTt53PP7SeXqDtzcU8i",
+                "profile": {
+                  "name": "Goldenbaby17"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02a7ae8831f4a8c8d088d02b24",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851a7ae8831f4a8c8d088d02b24",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273a7ae8831f4a8c8d088d02b24",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2021
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:3rt9CHTA1UdpNZRqEtlPbl",
+          "name": "Legends Never Die",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e025059100e732e6e17b9adbf09",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048515059100e732e6e17b9adbf09",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2735059100e732e6e17b9adbf09",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2020
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:5faLzHJolu5E1os2dZIzsS",
+          "name": "Bitty (1400/999)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:3HMU8O8ZHfiLP83JFsRfo5",
+                "profile": {
+                  "name": "Donald Ganim"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02a9a9284120438d789f8d0d16",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851a9a9284120438d789f8d0d16",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273a9a9284120438d789f8d0d16",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2021
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:7hDMgGXdy0x8hDbtOHIS5j",
+          "name": "Fighting Demons (Deluxe)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02592ac7d5d3cdc03c3987722c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851592ac7d5d3cdc03c3987722c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273592ac7d5d3cdc03c3987722c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:1oKYKiAwR31eJvkRwpQVrb",
+          "name": "Bye Bye",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T",
+                "profile": {
+                  "name": "Marshmello"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e024204e8bad640cf32eca876a5",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048514204e8bad640cf32eca876a5",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2734204e8bad640cf32eca876a5",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:7LXyHAJGDjq0rHED2hkB8D",
+          "name": "Let It Go v1",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0Tlfd0GGFcWZxrbdkykoxn",
+                "profile": {
+                  "name": "Lunarrr"
+                }
+              },
+              {
+                "uri": "spotify:artist:265iWAcdttWU3gFXjrcbbh",
+                "profile": {
+                  "name": "Maitchhh"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e0297a472b67e3d502322f2c1b2",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000485197a472b67e3d502322f2c1b2",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b27397a472b67e3d502322f2c1b2",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:7aObAFaIOcczMSDnfXz5z6",
+          "name": "Goodbye & Good Riddance (Anniversary)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02bf640cd39d097f99c6f6e48f",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851bf640cd39d097f99c6f6e48f",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273bf640cd39d097f99c6f6e48f",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2021
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:5wi0oKiF99ZVACf6oTTsp2",
+          "name": "Let Me Know (I Wonder Why Freestyle)",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02401ea2c7ac7ef87bd32c990f",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851401ea2c7ac7ef87bd32c990f",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273401ea2c7ac7ef87bd32c990f",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2019
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:0drGyzqHuxoTkn0e4ubKbK",
+          "name": "Jack and Jill",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0RjVsNJ8MAA97tLFbZ4REa",
+                "profile": {
+                  "name": "Luke Oconnell"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029c280f089ec66773b55c4f3e",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519c280f089ec66773b55c4f3e",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739c280f089ec66773b55c4f3e",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2022
+          }
+        }
+      }
+    ]
+  },
+  "artists": {
+    "totalCount": 26,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+          "profile": {
+            "name": "Juice WRLD"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb1908e1a8b79abf71d5598944",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1781908e1a8b79abf71d5598944",
+                  "width": 160,
+                  "height": 160
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:1pkkWlrWLMqt1SLUYdEEo7",
+          "profile": {
+            "name": "Juice WRLD AI"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27383e4bfd788670923c8af1b65",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485183e4bfd788670923c8af1b65",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:5Rp4MEEoDxnD4KDnvfSoJW",
+          "profile": {
+            "name": "Ai Juice Wrld"
+          },
+          "visuals": {
+            "avatarImage": null
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:61WZ28JIa3powrLnac2JAu",
+          "profile": {
+            "name": "JuiceWRLD AI"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273d2840a8789b83a122ef7c5a8",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851d2840a8789b83a122ef7c5a8",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:4JSRuAaLY8euCNyyjoy6k4",
+          "profile": {
+            "name": "Juice The Kid W"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27314502b0e729ff9f0848e1392",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485114502b0e729ff9f0848e1392",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:1EIfYptuchpVKN9rlx8D7c",
+          "profile": {
+            "name": "Juicewrld"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731fad554dd6261f53676a0fb7",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048511fad554dd6261f53676a0fb7",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:6TgqTt53PP7SeXqDtzcU8i",
+          "profile": {
+            "name": "Goldenbaby17"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb146be77e846ac1494c7ec89c",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178146be77e846ac1494c7ec89c",
+                  "width": 160,
+                  "height": 160
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:6uJFvitpDK58LQTICZLcPf",
+          "profile": {
+            "name": "Juice World"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273673b7233dbb1cc89ff808c1e",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851673b7233dbb1cc89ff808c1e",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:3HMU8O8ZHfiLP83JFsRfo5",
+          "profile": {
+            "name": "Donald Ganim"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a9a9284120438d789f8d0d16",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851a9a9284120438d789f8d0d16",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:5vPVV9q3BggcbfItRnKPeW",
+          "profile": {
+            "name": "Juice Daley"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebb2f09e8c2af259dc4ae4216e",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178b2f09e8c2af259dc4ae4216e",
+                  "width": 160,
+                  "height": 160
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:0oTdFU2Yvy7hp7ncTwvy7F",
+          "profile": {
+            "name": "berouw"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273244f8bfee7bd58e46b49d2be",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851a50478bb71c83a6001a8addc",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:0sSLCjirZS2ZXKsoTNdUKW",
+          "profile": {
+            "name": "Juicewrld999"
+          },
+          "visuals": {
+            "avatarImage": null
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:5QMcwoOnSRfoVFljf1tl0U",
+          "profile": {
+            "name": "LuVuAlways"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ed37ff726f14651da3c4fee3",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851ed37ff726f14651da3c4fee3",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:4b1VmKFwcrzEI6orkAY8g2",
+          "profile": {
+            "name": "Juice William"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273009292f4b7b9c62e9bc34ef7",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851009292f4b7b9c62e9bc34ef7",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:artist:6fyNgyH1Fnu0JYDOOfv5Ez",
+          "profile": {
+            "name": "unkn6wn"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb337da733944385b1d40f9c14",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f178337da733944385b1d40f9c14",
+                  "width": 160,
+                  "height": 160
+                }
+              ]
+            }
+          }
+        }
+      }
+    ]
+  },
+  "episodes": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:episode:1OgRwh2Vetjj4pq2UGa8ka",
+          "name": "juice wrld freestyle",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d996301649266bc46e31cb211",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f996301649266bc46e31cb211",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a996301649266bc46e31cb211",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 124447
+          },
+          "releaseDate": {
+            "isoString": "2022-03-08T19:28:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "juice wrld freestyle",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:3AO38D1p2A2B7FlB8Nm0m5",
+          "name": "Juice WRLD freestyle (R.I.P) Hour of fire over Eminem beats!",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dbff949795aa53ba3b7e60706",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fbff949795aa53ba3b7e60706",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8abff949795aa53ba3b7e60706",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3138269
+          },
+          "releaseDate": {
+            "isoString": "2020-12-07T13:00:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favorite of fair use.\"",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:4aYrFmIxvBUofMEllFaNAg",
+          "name": "Ep 341- Juice WRLD",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/4b47a2347a6c37d7600d7c772b92d0a642c2e7fc",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/a5d682598b47595d58dcfb5643b39d11c432d569",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/2be47f5b63481b66f21cd3a550feba496861bea8",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 5118384
+          },
+          "releaseDate": {
+            "isoString": "2021-04-02T17:09:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Family Ep. Billy joins the cast for some April Foolishness. LEZ GETTIT",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:0f3UbHri3ahYGhbAteZxSf",
+          "name": "Juice WRLD Motivational Speech",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7a8bb3ce3063449beb781a5a",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7a8bb3ce3063449beb781a5a",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7a8bb3ce3063449beb781a5a",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 226348
+          },
+          "releaseDate": {
+            "isoString": "2021-10-17T20:29:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Just listen ",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2Mie6NL2WoD3twXIJoPR57",
+          "name": "Cole Bennett Tells Crazy Untold Stories of Kanye West, Justin Bieber, Juice WRLD and More",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d7a2539c1c5258668eed46e60",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f7a2539c1c5258668eed46e60",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a7a2539c1c5258668eed46e60",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 4657057
+          },
+          "releaseDate": {
+            "isoString": "2022-09-16T00:30:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "GET FULL SEND SUPPS: http://supplements.co  LET'S GO!! FIND HAPPY DAD NEAR YOU: http://happydad.com/find  FOLLOW FULL SEND PODCAST: YOUTUBE | https://youtube.com/fullsendpodcast INSTAGRAM | https://instagram.com/fullsendpodcast TWITTER | https://twitter.com/fullsendpodcast TIKTOK | https://tiktok.com/@fullsendpodcast FACEBOOK | https://facebook.com/fullsendpod SNAPCHAT | https://snapchat.com/discover/Full_Send/5169152807 Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:4SSQLVRCFN5nWkpn525IoT",
+          "name": "Juice WRLD You Can Be Anything",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d0389931a01b7a1fb4aa2b7f4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f0389931a01b7a1fb4aa2b7f4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a0389931a01b7a1fb4aa2b7f4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 111920
+          },
+          "releaseDate": {
+            "isoString": "2021-11-29T16:58:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Juice WRLD talking about how you can do whatever you want to do in this life.  Everybody bleeds the same blood.",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:4VcN5MjcBTQm8N75s2cKST",
+          "name": "Stan ft juice wrld XXXtentacion and Peep",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/77e2c9504ff5ceb71c32a21590e2e763966512fa",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/5ff2d1e2232f169b9252f09432828a6e704f3668",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/f48221cf06daa48682bba055d600a21916551e92",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 345260
+          },
+          "releaseDate": {
+            "isoString": "2020-12-03T22:00:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Amazing song slap",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:0axguQaj6idmVjB8b6d9Wh",
+          "name": "juicewrld mouv",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d61aec31fd2053e69aa23d5cb",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f61aec31fd2053e69aa23d5cb",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a61aec31fd2053e69aa23d5cb",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 952454
+          },
+          "releaseDate": {
+            "isoString": "2021-08-15T21:47:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "freestyles",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:4u2fZSGKJc4FFvmajJ91JJ",
+          "name": "JUICE WRLD ON LUCID DREAMS, FREESTYLE, AND MORE!",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/a549be1847e74c198c30cc72bdba01185e312eb1",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/854fc7064be737b4913ad0a8e00d1fb1edf52c7b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/0a70f462a8a7f2d90da34990dc7ec137bfa78e5f",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 1650469
+          },
+          "releaseDate": {
+            "isoString": "2018-08-02T15:53:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "THE YOUNG PHENOM JUICE WRLD IS IN THE NEIGHBORHOOD, JOINING BIG BOY WITH A FREESTYLE EXCLUSIVE TO THE NEIGHBORHOOD AND A GREAT STORY OF A 19 YEAR OLD. A PLEASURE TO HAVE JUICE WLRD IN THE NEIGHBORHOOD! Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2CPaty5Tv85W5As1H3xak0",
+          "name": "E319 The Chainsmokers On Unreleased Juice WRLD, Camila Cabello, Finding Halsey",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3450dccc54cb967ae7b73a5c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3450dccc54cb967ae7b73a5c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3450dccc54cb967ae7b73a5c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 4582373
+          },
+          "releaseDate": {
+            "isoString": "2022-03-29T19:10:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "The decade’s most popular DJ group, The Chainsmokers, join the boys to discuss their unreleased music with Juice WRLD, choosing Halsey over Camila Cabello, sacrificing sheep, their #SELFIE song nightmares, Benny Blanco vs Charlie Puth, escaping Fyre Fest & more…   Wear Maverick Clothing ► https://maverickclothing.com SUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive   SeatGeek: Use code LOGAN for $20 off your first order. https://seatgeek.onelink.me/RrnK/LOGAN   Watch Previous (Steve Aoki On Partying With Kanye West & Making More Money With NFTs Than Music) ► https://www.youtube.com/watch?v=OIduzDASApY&t=1s   ADD US ON: INSTAGRAM: https://www.instagram.com/impaulsiveshow/   Timestamps: 0:00 Intro 3:52 New Music 7:28 DJ Prep 11:53 Roses 15:08 How To Get Girls 17:55 Chainsmokers Fight Each Other Yearly 28:32 #SELFIE 32:59 Awful DJ Names 35:11 Don’t Let Me Down 44:19 PRIME Taste Test 47:10 Benny Blanco Vs Charlie Puth Fake? 49:14 Fyre Festival 50:27 Closer - Halsey Over Camila Cabello? 1:01:16 Why “Chainsmokers”? 1:03:45 Juice WRLD Unreleased Songs 1:06:42 First Impressions!See omnystudio.com/listener for privacy information.",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:173VTVSBnqIRYBbbbQFHi0",
+          "name": "Juice Wrld Interview and More",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8b8ec184558c4ff01dec89d4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8b8ec184558c4ff01dec89d4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8b8ec184558c4ff01dec89d4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 5241782
+          },
+          "releaseDate": {
+            "isoString": "2019-04-08T17:31:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Today's show we had Juice Wrld stop by, where he spoke about cutting people off, heartbreak, touring with Nicki Minaj and more. Also, Charlamagne gave \"Donkey of the Day\" to Kodak Black after his comments about shooting his shot to Lauren London after her losing her partner Nipsey Hussle, which we had to turn into a topic and see what our listeners thought about it the whole situation.   Learn more about your ad-choices at https://www.iheartpodcastnetwork.comSee omnystudio.com/listener for privacy information.",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:3KBQ82O2Wcahb1f4tf9TUQ",
+          "name": "E285 DJ Scheme Shares Final Moments With Juice WRLD & XXXTENTACION",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d3450dccc54cb967ae7b73a5c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f3450dccc54cb967ae7b73a5c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a3450dccc54cb967ae7b73a5c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 5304006
+          },
+          "releaseDate": {
+            "isoString": "2021-08-03T20:10:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Coveted music producer, DJ Scheme, joins the boys to discuss untold stories of Juice WRLD & XXXTENTACION, their final words to him before passing away, how he’s coped with losing multiple best friends, astonishing tour moments with Juice WRLD, X’s passion for fighting & personal growth, and much more…   Wear Maverick Clothing ► https://maverickclothing.com SUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive  ADD US ON: INSTAGRAM: https://www.instagram.com/impaulsiveshow/    Roman Swipes: Go to https://www.getroman.com/logan for $10 off your first order of Swipes and free 2-day shipping! Lucy: Visit https://Lucy.co and use promo code LOGAN at check out!   Watch Previous (Our Last Episode In LA...) ► https://youtu.be/4hPPGvyBGSsSee omnystudio.com/listener for privacy information.",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:3pp1orSUhyNDxFtxKVnxwR",
+          "name": "Juice ",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5913dec444dc70739a582600",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5913dec444dc70739a582600",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5913dec444dc70739a582600",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 3745959
+          },
+          "releaseDate": {
+            "isoString": "2021-09-30T16:01:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Conspiracy",
+          "contentRating": {
+            "label": "NONE"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:2NCquilie3RvaqsMlbssWW",
+          "name": "Juice WRLD & Travis Scott Conspiracies",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d90f832445e155a859e6d671c",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f90f832445e155a859e6d671c",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a90f832445e155a859e6d671c",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2735333
+          },
+          "releaseDate": {
+            "isoString": "2022-01-11T08:02:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "Welcome to another episode of Believing the Bizarre. This week, we are back in conspiracy story. We dive into conspiracy theories surrounding Juice WRLD’s death and the tragedy that occurred at Travis Scott’s Astroworld Festival. We discuss hidden lyrics, drug use, and potential satanic symbolism. Listen now! Support Believing the Bizarre and get tons of extra content by joining our Patreon here: https://www.patreon.com/believingthebizarre For updates and extra content, follow Believing the Bizarre on social media: https://www.instagram.com/believingthebizarre/ https://www.facebook.com/believingthebizarre/  You can rep Believing the Bizarre and buy some unique merch here: https://believing-the-bizarre.creator-spring.com/",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:episode:6js2JJNJiPtf5XcQkE8rI4",
+          "name": "The Life and Music of Juice Wrld",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da41832cf791ed46532cf46ee",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa41832cf791ed46532cf46ee",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa41832cf791ed46532cf46ee",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "duration": {
+            "totalMilliseconds": 2364395
+          },
+          "releaseDate": {
+            "isoString": "2019-12-18T01:02:00Z"
+          },
+          "podcast": {
+            "coverArt": null
+          },
+          "description": "In early December, Juice Wrld died not long after his 21st birthday. Brendan Klinkenberg and Simon Vozick-Levinson join host Brian Hiatt to look back at the rapper's genre-hopping, too-short career Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+          "contentRating": {
+            "label": "EXPLICIT"
+          }
+        }
+      }
+    ]
+  },
+  "genres": {
+    "totalCount": 0,
+    "items": []
+  },
+  "playlists": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:playlist:3w5beWeINCCIB7x7K7GSor",
+          "name": "Juice WRLD🧃🌎",
+          "description": "Enjoy The Playlist! Promotion Unavailable :) Socials : Instagram: kixn.ruxgg Snap: kixnruxgg18💞",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "kixnruxgg18"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DWYnx77Gg1Rgu",
+          "name": "This Is Juice WRLD",
+          "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f0000000262a2b2b0d95d902b307837d2",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6bDsjnQfvLLp2kAC92JS23",
+          "name": "Juice WRLD Unreleased Leaks 999🧡LLJW",
+          "description": "IG: zealous.pgb ~ For the Fans ⭐ Last Updated: 24rd November 💎 | discord.gg&#x2F;tripl9 🏆",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84301e350884e2eb46fa3be8b8",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "TRIPL9"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:0Uc2yY2SVklXxmT8Bnzg83",
+          "name": "Juice WRLD 💊❤️",
+          "description": "- R.I.P - to the legend . 999 - released and unreleased songs in this playlists 💊❤️",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84f75c5a978f98d6511526e5a3",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Eazy Peazy"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:2hHv4GTbsWcjNrfz4Ewb1G",
+          "name": "Juice WRLD Unreleased (Complete)",
+          "description": "999 [IG: brett_2209]",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84902d9dc9ca87ea908c82cd61",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Brett Chambers"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1EFDPL3zTvLLR0",
+          "name": "Written By Juice WRLD",
+          "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2e8NLBxIAPFE5dwdRzdkjB\">Juice WRLD</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab676d63000076a0edce35def3f1b2787c20da45",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:5zyJ4gttvL5jPmBwUtEI2G",
+          "name": "juice wrld ",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023f812aa2b3e6f52081f9a470ab67616d00001e027459992b444de38842b9bee7ab67616d00001e0279e980eba80a8e3ee640d25eab67616d00001e029c02b669151e26c688e83b34",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023f812aa2b3e6f52081f9a470ab67616d00001e027459992b444de38842b9bee7ab67616d00001e0279e980eba80a8e3ee640d25eab67616d00001e029c02b669151e26c688e83b34",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023f812aa2b3e6f52081f9a470ab67616d00001e027459992b444de38842b9bee7ab67616d00001e0279e980eba80a8e3ee640d25eab67616d00001e029c02b669151e26c688e83b34",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Joshua Christensen"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:1lLdxJGee9V9FgvEaWb1nU",
+          "name": "Juice WRLD All Songs",
+          "description": "A playlist dedicated to the complete chronological discography of the late rapper Jarad &quot;Juice WRLD&quot; Higgins. #LLJW",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da84a662902d4d16ecf85a2ab363",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "LiquiCorn"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO2LHI89",
+          "name": "This Is Juice",
+          "description": "This is Juice. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2LHI89-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO1SE20s",
+          "name": "This Is Juice",
+          "description": "This is Juice. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1SE20s-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3xBGQ8Lpv8dF0Bvay5ku0m",
+          "name": "Unreleased juice wrld ",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da843bfa5b3e9ed0846582c7b2da",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Luke Oconnell"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:6c021omGtfhhPGSB8ORiww",
+          "name": "Juice WRLD unreleased Nov 2022",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da844d500ec3602c1b65f4f14359",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "D"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO23Od5T",
+          "name": "This Is juiceball",
+          "description": "This is juiceball. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO23Od5T-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3LgVZmSzE6uu92UjcYNlnz",
+          "name": "Juice WRLD CLEAN - ALL SONGS: Fighting demons, Death race for love  Goodbye & Good Riddance,",
+          "description": "🔥 ig @_datboii.shadow | Bye Bye Robbery Lucid Dreams Cigarettes All Girls Are The Same Wishing Well Come &amp; Go Legends Never Die Wandered to LA with Justin Bieber Rich and Blind Go Hard 2.0 Already Dead Feline Bandit Flaws and Sins Burn Girl of my dreams Doom unreleased in my head leaks rush hour",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706c0000da847f5428006551dd444573663d",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "SHADOW"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO0m5tuX",
+          "name": "This Is Juice",
+          "description": "This is Juice. The essential tracks, all in one playlist.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO0m5tuX-default.jpg",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ]
+  },
+  "podcasts": {
+    "totalCount": 55,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:show:4N4S68SX4pEDbGGCXwSawn",
+          "name": "Juice WRLD Talk",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8219054ceb590b4727e39f68",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8219054ceb590b4727e39f68",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8219054ceb590b4727e39f68",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juice WRLD Fan"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:6hs4CKPnnhYvpJzNJ0sayD",
+          "name": "Juice WRLD freestyle (R.I.P) Hour of fire over Eminem beats! Westwood",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d67814790ab8a6a8c2795a4c3",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f67814790ab8a6a8c2795a4c3",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a67814790ab8a6a8c2795a4c3",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Jameson"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:1xRcFvs45pVbfz1Pn01C1G",
+          "name": "Juice WRLD Talk",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68dff312185f439ab5faa0a0f9b",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fff312185f439ab5faa0a0f9b",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aff312185f439ab5faa0a0f9b",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juice WRLD"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:52uSuhHwvPZX0mPmRcuHf6",
+          "name": "Juice Wrld ",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2a6a8e19b048cd29554b8974",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2a6a8e19b048cd29554b8974",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2a6a8e19b048cd29554b8974",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Brenda Carrillo"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:0NNKFQ4t9LsSftWSGoV013",
+          "name": "Juice WRLD Unreleased",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68df8c719886fe50d5a895da5a2",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1ff8c719886fe50d5a895da5a2",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8af8c719886fe50d5a895da5a2",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Jnohnysheesh"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:7rjPgCkoVIwGJhdHyPcmaY",
+          "name": "Juice Wrld",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ae8fb5e8c071431c1e97b3ab8c7afcc657dbb758",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/8b8812f7620b1c356ffc152f08d5afef53d77ff5",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/35f454eaa57f2b68406406fb65f8799b75b820d9",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Zion Etheredge"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:4AAk6xDDbSZvZf16Jf2qqE",
+          "name": "The Party Never Ends Juice Wrld",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d285147f6a18606411206d6cd",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f285147f6a18606411206d6cd",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a285147f6a18606411206d6cd",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juice Wrld"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:227tpy9Ro2rIFTyI1PZ3Ei",
+          "name": "Juice",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d5913dec444dc70739a582600",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f5913dec444dc70739a582600",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a5913dec444dc70739a582600",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Elijah Owens"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:6FVEXyleVlpQa0V1ySnvUV",
+          "name": "Juice wrld",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d2927226ff0b6f82bf2230921",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f2927226ff0b6f82bf2230921",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a2927226ff0b6f82bf2230921",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Mickael"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:3OGbOt2PbIsJncyNDrzBqD",
+          "name": "333Released Juice WRLD News",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d62a6d7c5ffbc255805099ffc",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f62a6d7c5ffbc255805099ffc",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a62a6d7c5ffbc255805099ffc",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "333 Released"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:2eud5avO3hbwjS1uvthO9n",
+          "name": "Juice wrld leak",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68da0d454eb19d8a6d573152850",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fa0d454eb19d8a6d573152850",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8aa0d454eb19d8a6d573152850",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Nice Wrld"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:7jcZGVa56WUYtgtz8zHHhC",
+          "name": "the Juiceworms: Conversation Pit",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68de98e43f9c85be06c4c5b630f",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1fe98e43f9c85be06c4c5b630f",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8ae98e43f9c85be06c4c5b630f",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Studio 3C7"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:3ouBynzmWn6McjNTDX8m3u",
+          "name": "Juice WRLD Unreleased (leak)",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d9297b370860b3139c91f3fcc",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f9297b370860b3139c91f3fcc",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a9297b370860b3139c91f3fcc",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juiceejucee"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:0BJLgZmt7xqMmzr7fD3PpT",
+          "name": "Juice Wine Podcast",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/86ade4c076801840c665d174c82b4e6f5b4a25c6",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/0d651481de924f91326c620e61cfb81e72ccde01",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/baea01da546c31596266647fe23928201d402814",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Emily Harman & Guen Douglas"
+          },
+          "mediaType": "AUDIO"
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:66jftNBlJAKSK2a90cDD5v",
+          "name": "Podcast's Reacción KPOP-USUK / BTS, BLACKPINK,...",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d463ebfb800d03dc5b663eee7",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f463ebfb800d03dc5b663eee7",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a463ebfb800d03dc5b663eee7",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juice Wrld"
+          },
+          "mediaType": "AUDIO"
+        }
+      }
+    ]
+  },
+  "topResults": {
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+          "profile": {
+            "name": "Juice WRLD"
+          },
+          "visuals": {
+            "avatarImage": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000e5eb1908e1a8b79abf71d5598944",
+                  "width": 640,
+                  "height": 640
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6761610000f1781908e1a8b79abf71d5598944",
+                  "width": 160,
+                  "height": 160
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:47IySiC5o08gz0z5VDiH93",
+          "id": "47IySiC5o08gz0z5VDiH93",
+          "name": "Juice WRLD DID (feat. Juice WRLD)",
+          "albumOfTrack": {
+            "uri": "spotify:album:6NuGZnOc88LcZpEkJIbO50",
+            "name": "GOD DID",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b1038aaf26f4c6daad614707",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851b1038aaf26f4c6daad614707",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b1038aaf26f4c6daad614707",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6NuGZnOc88LcZpEkJIbO50",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50?si=m6ESLAVdQLq8N_lj88PAcQ"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP",
+                "profile": {
+                  "name": "DJ Khaled"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 207650
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:3w5beWeINCCIB7x7K7GSor",
+          "name": "Juice WRLD🧃🌎",
+          "description": "Enjoy The Playlist! Promotion Unavailable :) Socials : Instagram: kixn.ruxgg Snap: kixnruxgg18💞",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e023e0698e4ae5ffb82a005aeebab67616d00001e027459992b444de38842b9bee7ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                    "width": 60,
+                    "height": 60
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "kixnruxgg18"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+          "name": "Goodbye & Good Riddance",
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:show:4N4S68SX4pEDbGGCXwSawn",
+          "name": "Juice WRLD Talk",
+          "coverArt": {
+            "sources": [
+              {
+                "url": "https://i.scdn.co/image/ab6765630000f68d8219054ceb590b4727e39f68",
+                "width": 64,
+                "height": 64
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67656300005f1f8219054ceb590b4727e39f68",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab6765630000ba8a8219054ceb590b4727e39f68",
+                "width": 640,
+                "height": 640
+              }
+            ]
+          },
+          "type": "PODCAST",
+          "publisher": {
+            "name": "Juice WRLD Fan"
+          },
+          "mediaType": "AUDIO"
+        }
+      }
+    ],
+    "featured": [
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX7iB3RCnBnN4",
+          "name": "BILLIONS CLUB",
+          "description": "Every song with over 1 billion streams on Spotify. Cover: Olivia Rodrigo",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000024c75f9e01daf0cdbf0309014",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1E4y5lWP0HJz8d",
+          "name": "Juice WRLD Radio",
+          "description": "",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://seeded-session-images.scdn.co/v1/img/artist/4MCBfE4596Uoi2O4DtmEMz/en",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX86cOoaMyeqi",
+          "name": "LOBBYHOS",
+          "description": "Die Playlist zum Podcast von Rezo & Julien Bam.",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000021fa6ff24dea39ac22d623374",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP",
+          "name": "Beast Mode",
+          "description": "Get your beast mode on!",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67706f000000029249b35f23fb596b6f006a15",
+                    "width": null,
+                    "height": null
+                  }
+                ]
+              }
+            ]
+          },
+          "owner": {
+            "name": "Spotify"
+          }
+        }
+      }
+    ]
+  },
+  "tracks": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:track:47IySiC5o08gz0z5VDiH93",
+          "id": "47IySiC5o08gz0z5VDiH93",
+          "name": "Juice WRLD DID (feat. Juice WRLD)",
+          "albumOfTrack": {
+            "uri": "spotify:album:6NuGZnOc88LcZpEkJIbO50",
+            "name": "GOD DID",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b1038aaf26f4c6daad614707",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851b1038aaf26f4c6daad614707",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b1038aaf26f4c6daad614707",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6NuGZnOc88LcZpEkJIbO50",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50?si=o-TU0nUrT5OuerCU8PZaHQ"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:0QHgL1lAIqAw0HtD7YldmP",
+                "profile": {
+                  "name": "DJ Khaled"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 207650
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:2RJAKIw6nIkgZVsAIKhmqz",
+          "id": "2RJAKIw6nIkgZVsAIKhmqz",
+          "name": "In My Head",
+          "albumOfTrack": {
+            "uri": "spotify:album:4I00tpvL54vnWy49vH5fRK",
+            "name": "In My Head",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02fc8d508165184ba404ca8495",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851fc8d508165184ba404ca8495",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273fc8d508165184ba404ca8495",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "4I00tpvL54vnWy49vH5fRK",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK?si=jhIwe9eAQ2iyahuo6o1fNA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 192000
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:285pBltuF7vW8TeWk8hdRR",
+          "id": "285pBltuF7vW8TeWk8hdRR",
+          "name": "Lucid Dreams",
+          "albumOfTrack": {
+            "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+            "name": "Goodbye & Good Riddance",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6tkjU4Umpo79wwkgPMV3nZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=FhRIhY_DSYSdmniA88FlwA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 239835
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:7FIWs0pqAYbP91WWM0vlTQ",
+          "id": "7FIWs0pqAYbP91WWM0vlTQ",
+          "name": "Godzilla (feat. Juice WRLD)",
+          "albumOfTrack": {
+            "uri": "spotify:album:4otkd9As6YaxxEkIjXPiZ6",
+            "name": "Music To Be Murdered By",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "4otkd9As6YaxxEkIjXPiZ6",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6?si=H8Ce0j5ZTHqb205Kmk-4WA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                "profile": {
+                  "name": "Eminem"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 210800
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3wwo0bJvDSorOpNfzEkfXx",
+          "id": "3wwo0bJvDSorOpNfzEkfXx",
+          "name": "Let Me Know (I Wonder Why Freestyle)",
+          "albumOfTrack": {
+            "uri": "spotify:album:5wi0oKiF99ZVACf6oTTsp2",
+            "name": "Let Me Know (I Wonder Why Freestyle)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02401ea2c7ac7ef87bd32c990f",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851401ea2c7ac7ef87bd32c990f",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273401ea2c7ac7ef87bd32c990f",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "5wi0oKiF99ZVACf6oTTsp2",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2?si=ELwD0ctNTyu7wTc-5R1uKg"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 215380
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1CfuBY3BDdKpooQ9L5zgUc",
+          "id": "1CfuBY3BDdKpooQ9L5zgUc",
+          "name": "Cigarettes",
+          "albumOfTrack": {
+            "uri": "spotify:album:1typPCwqyXMfFpvDZAyKew",
+            "name": "Fighting Demons (Deluxe)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048517459992b444de38842b9bee7",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1typPCwqyXMfFpvDZAyKew",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew?si=S_RZBfLFSZmft5Yjo2YN2g"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 227527
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:4VXIryQMWpIdGgYR4TrjT1",
+          "id": "4VXIryQMWpIdGgYR4TrjT1",
+          "name": "All Girls Are The Same",
+          "albumOfTrack": {
+            "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+            "name": "Goodbye & Good Riddance",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6tkjU4Umpo79wwkgPMV3nZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=FhRIhY_DSYSdmniA88FlwA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 165819
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:1a7WZZZH7LzyvorhpOJFTe",
+          "id": "1a7WZZZH7LzyvorhpOJFTe",
+          "name": "Wasted (feat. Lil Uzi Vert)",
+          "albumOfTrack": {
+            "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+            "name": "Goodbye & Good Riddance",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6tkjU4Umpo79wwkgPMV3nZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=FhRIhY_DSYSdmniA88FlwA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              },
+              {
+                "uri": "spotify:artist:4O15NlyKLIASxsJ0PrXPfz",
+                "profile": {
+                  "name": "Lil Uzi Vert"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 258475
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:6iaSML1PIYq936g62BDtBq",
+          "id": "6iaSML1PIYq936g62BDtBq",
+          "name": "Robbery",
+          "albumOfTrack": {
+            "uri": "spotify:album:1btu0SV2DOI5HoFsvUd78F",
+            "name": "Death Race For Love (Bonus Track Version)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048518b27d35aa2c6dcf99895d664",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1btu0SV2DOI5HoFsvUd78F",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F?si=OlFVQpq3RECPUfmsAethqg"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 240050
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:6XO8RlYuJCiI0v3IA48FeJ",
+          "id": "6XO8RlYuJCiI0v3IA48FeJ",
+          "name": "Bye Bye",
+          "albumOfTrack": {
+            "uri": "spotify:album:1oKYKiAwR31eJvkRwpQVrb",
+            "name": "Bye Bye",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e024204e8bad640cf32eca876a5",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048514204e8bad640cf32eca876a5",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2734204e8bad640cf32eca876a5",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1oKYKiAwR31eJvkRwpQVrb",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb?si=vyJuGjDhTC2cHjDDbJgvBw"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T",
+                "profile": {
+                  "name": "Marshmello"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 108498
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:74lnM5V6ecvoTPV0fvptx9",
+          "id": "74lnM5V6ecvoTPV0fvptx9",
+          "name": "Nuketown (feat. Juice WRLD)",
+          "albumOfTrack": {
+            "uri": "spotify:album:0z0z4DcXhHiobX5ZKAw8Qn",
+            "name": "STOKELEY",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e62c8561e3b1bd9ad952ce01",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851e62c8561e3b1bd9ad952ce01",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e62c8561e3b1bd9ad952ce01",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "0z0z4DcXhHiobX5ZKAw8Qn",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn?si=9nbM-4mRTn-qOw34m_HI_A"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry",
+                "profile": {
+                  "name": "Ski Mask The Slump God"
+                }
+              },
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 166400
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:2U5WueTLIK5WJLD7mvDODv",
+          "id": "2U5WueTLIK5WJLD7mvDODv",
+          "name": "Wishing Well",
+          "albumOfTrack": {
+            "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL",
+            "name": "Legends Never Die",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6n9DKpOxwifT5hOXtgLZSL",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL?si=dEMN9YZvS0u1Gyb1v7AQEg"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 194621
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:4K06PO78fW4mnBVenxGNob",
+          "id": "4K06PO78fW4mnBVenxGNob",
+          "name": "Conversations",
+          "albumOfTrack": {
+            "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL",
+            "name": "Legends Never Die",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6n9DKpOxwifT5hOXtgLZSL",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL?si=dEMN9YZvS0u1Gyb1v7AQEg"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 181661
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3oDkdAySo1VQQG0ptV7uwa",
+          "id": "3oDkdAySo1VQQG0ptV7uwa",
+          "name": "Lean Wit Me",
+          "albumOfTrack": {
+            "uri": "spotify:album:6tkjU4Umpo79wwkgPMV3nZ",
+            "name": "Goodbye & Good Riddance",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "6tkjU4Umpo79wwkgPMV3nZ",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ?si=FhRIhY_DSYSdmniA88FlwA"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 175755
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:track:3i6sCTU7ENlnHpHvrHUitW",
+          "id": "3i6sCTU7ENlnHpHvrHUitW",
+          "name": "Sometimes",
+          "albumOfTrack": {
+            "uri": "spotify:album:1typPCwqyXMfFpvDZAyKew",
+            "name": "Fighting Demons (Deluxe)",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e027459992b444de38842b9bee7",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048517459992b444de38842b9bee7",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737459992b444de38842b9bee7",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "id": "1typPCwqyXMfFpvDZAyKew",
+            "sharingInfo": {
+              "shareUrl": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew?si=S_RZBfLFSZmft5Yjo2YN2g"
+            }
+          },
+          "artists": {
+            "items": [
+              {
+                "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                "profile": {
+                  "name": "Juice WRLD"
+                }
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "EXPLICIT"
+          },
+          "duration": {
+            "totalMilliseconds": 259672
+          },
+          "playability": {
+            "playable": true
+          }
+        }
+      }
+    ]
+  },
+  "users": {
+    "totalCount": 1000,
+    "items": [
+      {
+        "data": {
+          "uri": "spotify:user:0sejrqw6fjpjwmlb2rxhyyg22",
+          "id": "0sejrqw6fjpjwmlb2rxhyyg22",
+          "displayName": "Juice WRLD",
+          "username": "0sejrqw6fjpjwmlb2rxhyyg22",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8286a4357ffb99e478d3e7b32f",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8586a4357ffb99e478d3e7b32f"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:ag1fla1ikmdokntfuuuk9zp6g",
+          "id": "ag1fla1ikmdokntfuuuk9zp6g",
+          "displayName": "Juice WRLD ll",
+          "username": "ag1fla1ikmdokntfuuuk9zp6g",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b824abd4fc3c4dbf0256490ccf2",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee854abd4fc3c4dbf0256490ccf2"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:31vosetsitv6yfzgy72iotzp7uk4",
+          "id": "31vosetsitv6yfzgy72iotzp7uk4",
+          "displayName": "juice wrld 4evr",
+          "username": "31vosetsitv6yfzgy72iotzp7uk4",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82acd74a2aee559cf195f16dbe",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85acd74a2aee559cf195f16dbe"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:hz4uekdolvenczvgmuh1f5kvu",
+          "id": "hz4uekdolvenczvgmuh1f5kvu",
+          "displayName": "JUICE WRLD FAN 🎸",
+          "username": "hz4uekdolvenczvgmuh1f5kvu",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82cffe9bc1ab600446967fef8f",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85cffe9bc1ab600446967fef8f"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:31fkwgo5gi6yky4wkvhirzxutlnq",
+          "id": "31fkwgo5gi6yky4wkvhirzxutlnq",
+          "displayName": "RIP Juice wrld",
+          "username": "31fkwgo5gi6yky4wkvhirzxutlnq",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b822d446d8af2d48f4d504a00de",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee852d446d8af2d48f4d504a00de"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:58bknjlx7kcdxnin24yk7sxno",
+          "id": "58bknjlx7kcdxnin24yk7sxno",
+          "displayName": "juice wrld 🧃🌎",
+          "username": "58bknjlx7kcdxnin24yk7sxno",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82b1c7197338722d61b93892a1",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85b1c7197338722d61b93892a1"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:m94qbwes8mwjub5gg9yc8vtbt",
+          "id": "m94qbwes8mwjub5gg9yc8vtbt",
+          "displayName": "The wrld of juice",
+          "username": "m94qbwes8mwjub5gg9yc8vtbt",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b825139462448fdad2e97edf722",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee855139462448fdad2e97edf722"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:tn9m2q94dx32gjipfdcxouccg",
+          "id": "tn9m2q94dx32gjipfdcxouccg",
+          "displayName": "JUICE WRLD FAN",
+          "username": "tn9m2q94dx32gjipfdcxouccg",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82475c9d7fd2f9b2a18dbd7305",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85475c9d7fd2f9b2a18dbd7305"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:4jeqhno119aaj6gy8rjw95sk4",
+          "id": "4jeqhno119aaj6gy8rjw95sk4",
+          "displayName": "Juice WRLD Love",
+          "username": "4jeqhno119aaj6gy8rjw95sk4",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82bea6f777cd025090506c615b",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85bea6f777cd025090506c615b"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:p0rhmqggie8bsgowh40evuzvp",
+          "id": "p0rhmqggie8bsgowh40evuzvp",
+          "displayName": "XXXTENTACION AND JUICE WRLD😭",
+          "username": "p0rhmqggie8bsgowh40evuzvp",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82d3617d5733b46c25a537364a",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85d3617d5733b46c25a537364a"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:2a1cf0uo6o62db3kltqt4yx2s",
+          "id": "2a1cf0uo6o62db3kltqt4yx2s",
+          "displayName": "Gavin Smith (RIP Juice WRLD)",
+          "username": "2a1cf0uo6o62db3kltqt4yx2s",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82503cae02fbc45d05d3d53479",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85503cae02fbc45d05d3d53479"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:njg641tv8b7zietxg86ge75pt",
+          "id": "njg641tv8b7zietxg86ge75pt",
+          "displayName": "Juice WRLD 9💔9💔9",
+          "username": "njg641tv8b7zietxg86ge75pt",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b824bbf8d236d03251c9fad8838",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee854bbf8d236d03251c9fad8838"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:l63bw9pgbaa7idkhnrx8y7pz7",
+          "id": "l63bw9pgbaa7idkhnrx8y7pz7",
+          "displayName": "Juice WRLD 2.0",
+          "username": "l63bw9pgbaa7idkhnrx8y7pz7",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82a7d40e518b5c7fdf133dbb60",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85a7d40e518b5c7fdf133dbb60"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:hl4wddclc5akyb2yi32psp8ga",
+          "id": "hl4wddclc5akyb2yi32psp8ga",
+          "displayName": "Juice WRLD",
+          "username": "hl4wddclc5akyb2yi32psp8ga",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82fafd5e432fbe239bde024f1b",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85fafd5e432fbe239bde024f1b"
+          }
+        }
+      },
+      {
+        "data": {
+          "uri": "spotify:user:1294882456",
+          "id": "1294882456",
+          "displayName": "Juice WRLD 24/7",
+          "username": "1294882456",
+          "image": {
+            "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82ee70ca2b44022f834d4875b8",
+            "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85ee70ca2b44022f834d4875b8"
+          }
+        }
+      }
+    ]
+  }
+}

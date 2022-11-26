@@ -1,0 +1,27 @@
+# json:
+#   key_name_convention: camel_case
+
+# data_class:
+#   options_config:
+#     copy_with:
+#       disabled:
+#         - "lib/models/**"
+#         - "lib/apis/**/models/**"
+
+#     hash_and_equals:
+#       disabled:
+#         - "lib/apis/**/models/**"
+
+#     to_string:
+#       disabled:
+#         - "lib/apis/**/models/**"
+
+#     from_json:
+#       enabled:
+#         - "lib/models/**"
+#         - "lib/apis/**/models/*_response.dart"
+
+#     to_json:
+#       enabled:
+#         - "lib/models/**"
+#         - "lib/apis/**/models/*_request.dart"
