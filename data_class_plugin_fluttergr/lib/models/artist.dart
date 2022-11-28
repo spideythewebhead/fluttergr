@@ -36,13 +36,6 @@ class Artist {
     return identical(this, other) || other is Artist && profile == other.profile;
   }
 
-  /// Converts [Artist] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'profile': profile.toJson(),
-    };
-  }
-
   /// Creates an instance of [Artist] from [json]
   factory Artist.fromJson(Map<dynamic, dynamic> json) {
     return Artist(
@@ -85,13 +78,6 @@ class ArtistProfile {
   @override
   bool operator ==(Object other) {
     return identical(this, other) || other is ArtistProfile && name == other.name;
-  }
-
-  /// Converts [ArtistProfile] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'name': name,
-    };
   }
 
   /// Creates an instance of [ArtistProfile] from [json]

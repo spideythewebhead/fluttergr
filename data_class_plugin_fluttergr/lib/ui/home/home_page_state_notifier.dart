@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:data_class_plugin_fluttergr/models/track.dart';
 import 'package:data_class_plugin_fluttergr/providers/songs_repo_provider.dart';
 import 'package:data_class_plugin_fluttergr/repos/songs_repo.dart';
 import 'package:data_class_plugin_fluttergr/ui/home/home_page_state.dart';
@@ -22,12 +23,21 @@ class HomePageStateNotifier extends StateNotifier<HomePageState> {
 
   final SongsRepo _songsRepo;
 
-  final DebounceTimer _searchDebouncer =
-      DebounceTimer(const Duration(milliseconds: 500));
+  final DebounceTimer _searchDebouncer = DebounceTimer(const Duration(milliseconds: 500));
 
   void search(String query) {
     _searchDebouncer.run(() async {
+      if (query.isEmpty) {
+        state = state.copyWith(
+          query: query,
+          loadingState: const LoadingState(),
+          tracks: const <Track>[],
+        );
+        return;
+      }
+
       state = state.copyWith(
+        query: query,
         hasQueriedAtLeastOnce: true,
         loadingState: const LoadingState(
           isLoadingResults: true,

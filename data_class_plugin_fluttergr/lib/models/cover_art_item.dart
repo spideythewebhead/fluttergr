@@ -51,13 +51,4 @@ class CoverArtItem {
     return identical(this, other) ||
         other is CoverArtItem && url == other.url && width == other.width && height == other.height;
   }
-
-  /// Converts [CoverArtItem] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'url': jsonConverterRegistrant.find(Uri).toJson(url),
-      'width': width,
-      'height': height,
-    };
-  }
 }

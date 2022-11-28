@@ -8,8 +8,7 @@ class SearchField extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final isLoading = ref.watch(
-      homePageStateProvider
-          .select((value) => value.loadingState.isLoadingResults),
+      homePageStateProvider.select((value) => value.loadingState.isLoadingResults),
     );
     final homePageStateNotifier = ref.watch(homePageStateProvider.notifier);
 

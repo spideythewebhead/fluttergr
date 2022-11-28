@@ -7,14 +7,10 @@ final trackProvider = Provider<Track>((ref) => throw UnimplementedError());
 
 extension on Duration {
   String get formatted {
-    final minutes = (inMilliseconds ~/
-            Duration.millisecondsPerSecond ~/
-            Duration.secondsPerMinute)
+    final minutes = (inMilliseconds ~/ Duration.millisecondsPerSecond ~/ Duration.secondsPerMinute)
         .toString()
         .padLeft(2, '0');
-    final seconds = (inMilliseconds ~/
-            Duration.millisecondsPerSecond %
-            Duration.secondsPerMinute)
+    final seconds = (inMilliseconds ~/ Duration.millisecondsPerSecond % Duration.secondsPerMinute)
         .toString()
         .padLeft(2, '0');
     return '$minutes:$seconds';

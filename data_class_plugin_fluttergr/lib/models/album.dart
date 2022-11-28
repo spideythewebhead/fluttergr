@@ -61,16 +61,6 @@ class Album {
             coverArt == other.coverArt &&
             sharingInfo == other.sharingInfo;
   }
-
-  /// Converts [Album] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'id': id,
-      'name': name,
-      'coverArt': coverArt.toJson(),
-      'sharingInfo': jsonConverterRegistrant.find(AlbumShareInfo).toJson(sharingInfo),
-    };
-  }
 }
 
 @DataClass()
@@ -116,15 +106,6 @@ class CoverArt {
   @override
   bool operator ==(Object other) {
     return identical(this, other) || other is CoverArt && deepEquality(sources, other.sources);
-  }
-
-  /// Converts [CoverArt] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'sources': <dynamic>[
-        for (final CoverArtItem i0 in sources) i0.toJson(),
-      ],
-    };
   }
 }
 

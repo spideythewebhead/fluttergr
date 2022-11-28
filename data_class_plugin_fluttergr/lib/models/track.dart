@@ -77,17 +77,6 @@ class Track {
             duration == other.duration &&
             album == other.album;
   }
-
-  /// Converts [Track] to a [Map] json
-  Map<String, dynamic> toJson() {
-    return <String, dynamic>{
-      'id': id,
-      'name': name,
-      'artists': jsonConverterRegistrant.find(TrackArtists).toJson(artists),
-      'duration': jsonConverterRegistrant.find(Duration).toJson(duration),
-      'albumOfTrack': album.toJson(),
-    };
-  }
 }
 
 @DataClass()

@@ -22,6 +22,7 @@ data_class:
         - "lib/apis/**/models/*_response.dart"
 
     to_json:
-      enabled:
+      disabled:
         - "lib/models/**"
+      enabled:
         - "lib/apis/**/models/*_request.dart"

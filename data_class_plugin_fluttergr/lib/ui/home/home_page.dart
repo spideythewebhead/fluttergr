@@ -54,8 +54,7 @@ class HomePage extends StatelessWidget {
                                 Expanded(
                                   child: CustomScrollView(
                                     slivers: [
-                                      if (state
-                                          .loadingState.failedToLoadResults)
+                                      if (state.loadingState.failedToLoadResults)
                                         const SliverFillRemaining(
                                           child: Center(
                                             child: Text(
@@ -66,18 +65,24 @@ class HomePage extends StatelessWidget {
                                               ),
                                             ),
                                           ),
-                                        ),
-                                      if (!state
-                                              .loadingState.isLoadingResults &&
-                                          state.hasQueriedAtLeastOnce &&
+                                        )
+                                      else if (!state.hasQueriedAtLeastOnce)
+                                        SliverFillRemaining(
+                                          child: Center(
+                                            child: Text(
+                                              'Find the music you love!',
+                                              style: Theme.of(context).textTheme.titleLarge,
+                                            ),
+                                          ),
+                                        )
+                                      else if (!state.loadingState.isLoadingResults &&
+                                          state.query.isNotEmpty &&
                                           state.tracks.isEmpty)
                                         SliverToBoxAdapter(
                                           child: Text(
                                             'Your query has matched zero results!',
                                             textAlign: TextAlign.center,
-                                            style: Theme.of(context)
-                                                .textTheme
-                                                .bodyLarge,
+                                            style: Theme.of(context).textTheme.bodyLarge,
                                           ),
                                         )
                                       else
@@ -85,14 +90,12 @@ class HomePage extends StatelessWidget {
                                           delegate: SliverChildBuilderDelegate(
                                             (context, index) {
                                               if (index.isEven) {
-                                                return const SizedBox(
-                                                    height: 8.0);
+                                                return const SizedBox(height: 8.0);
                                               }
                                               return ProviderScope(
                                                 overrides: [
                                                   trackProvider
-                                                      .overrideWithValue(state
-                                                          .tracks[index ~/ 2])
+                                                      .overrideWithValue(state.tracks[index ~/ 2])
                                                 ],
                                                 child: const TrackWidget(),
                                               );
@@ -101,11 +104,6 @@ class HomePage extends StatelessWidget {
                                           ),
                                         )
                                     ],
-
-                                    // children: [
-                                    //   const _SearchField(),
-                                    //
-                                    // ],
                                   ),
                                 ),
                               ],
